@@ -76,3 +76,10 @@ Ferramenta salva com sucesso!
 - Não permite quantidade negativa.
 - Não permite campos vazios para nome e marca.
 - Exibe mensagem de erro.
+
+---
+
+## Licença
+Projeto acadêmico para fins educacionais.
+Disciplina: Programação de Soluções Computacionais
+Professor: Alexandre de Oliveira (Montanha)

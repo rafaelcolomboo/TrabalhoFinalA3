@@ -81,5 +81,7 @@ Ferramenta salva com sucesso!
 
 ## Licença
 Projeto acadêmico para fins educacionais.
+
 Disciplina: Programação de Soluções Computacionais
+
 Professor: Alexandre de Oliveira (Montanha)

@@ -28,6 +28,7 @@ javac Ferramenta.java Main.java
 ## Execução
 
 Após compilar, execute com:
+```bash
 main.java 
 
 O menu será exibido no console com as opções:

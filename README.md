@@ -31,6 +31,7 @@ Este é um sistema simples de cadastro e gerenciamento de ferramentas, implement
 ## Compilação
 
 Abra o terminal e navegue até o diretório do projeto. Compile os arquivos `.java` com:
+(Exemplo)
 
 javac Ferramenta.java Main.java
 
